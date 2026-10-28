@@ -1,0 +1,15 @@
+# Entorno y credenciales
+.env
+.env.local
+config.local.php
+
+# Archivos de sistema y editores
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+.vscode/
+.idea/
+
+# Vendor si usan composer
+/vendor/
